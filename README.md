@@ -4,4 +4,4 @@ Since those often work by comparing both texts for matching phrases, this progra
 
 Humans can't see the character but most plagiarism checkers do, so the texts are flagged as completely different.
 
-You may also edit the variable SINGLE_CHAR if you have a word limit. Instead of inserting the invisible character between every letter, it will instead insert a single one in the middle of the word. This will still work in most cases, but using this mode is discouraged unless it's completely necessary 
+You may also edit the variable SINGLE_CHAR if you have a word limit. Instead of inserting the invisible character between every letter, it will only do it once in the middle of the word. This will still bypass most plagiarism checks, but using this mode is discouraged unless it's completely necessary 
